@@ -1,0 +1,2 @@
+to do: 
+	- reduce memory usage of app's PPID 
